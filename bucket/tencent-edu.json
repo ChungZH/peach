@@ -6,7 +6,6 @@
     "identifier": "Proprietary",
     "url": "https://ke.qq.com/proService.html"
   },
-  "extract_dir": "$_4_",
   "installer": {
     "script": [
       "Expand-7zipArchive -Path \"$dir\\KeInstall.*.zip\" -Removal",
