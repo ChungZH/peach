@@ -12,7 +12,7 @@ scoop install peach/<app>
 
 ## Manifests
 
-- [Tencent edu](https://ke.qq.com/)
+- [**tencent-edu**](https://ke.qq.com/)
 
 ---
 
