@@ -7,7 +7,7 @@
   },
   "installer": {
     "script": [
-      "Copy-Item $dir\\5.15.0-desktop-win64_msvc2019_64\\*  $dir\\ -Recurse -Confirm:$false",
+      "Get-ChildItem -Path $dir\\5.15.0-desktop-win64_msvc2019_64\\* -Recurse | Move-Item -Destination $dir\\",
       "Remove-Item $dir\\5.15.0-desktop-win64_msvc2019_64"
     ]
   },
