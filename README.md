@@ -13,6 +13,7 @@ scoop install peach/<app>
 ## Manifests
 
 - [**tencent-edu**](https://ke.qq.com/)
+- [**lemon**](https://github.com/iotang/Project_LemonLime)
 
 ---
 
