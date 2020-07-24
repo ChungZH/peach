@@ -16,6 +16,7 @@ scoop install peach/<app>
 
 - [**tencent-edu**](https://ke.qq.com/)
 - [**lemon**](https://github.com/iotang/Project_LemonLime)
+- [**vivetool**](https://github.com/thebookisclosed/ViVe)
 
 ---
 
