@@ -1,0 +1,16 @@
+#.github\workflows\pull_request.yml
+on:
+  pull_request:
+    types: [opened]
+name: Pull requests
+jobs:
+  pullRequestHandler:
+    name: PullRequestHandler
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: PullRequestHandler
+        uses: Ash258/Scoop-GithubActions@stable
+        env:
+          GITH_EMAIL: chungzh07@gmail.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
