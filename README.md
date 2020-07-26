@@ -23,6 +23,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**parsify**](https://parsify.app/) - Extendable calculator ⚡
 - [**caret**](https://caret.io) - Markdown editor
 - [**abricotine**](https://abricotine.brrd.fr/) - Markdown editor ([`extras` pending](https://github.com/lukesampson/scoop-extras/pull/4453))
+- [**gitify**](https://www.gitify.io/) - GitHub notifications on your menu bar
 
 ---
 

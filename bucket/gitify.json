@@ -1,7 +1,6 @@
 {
   "version": "3.1.0",
-  "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
-  "homepage": "https://github.com/manosim/gitify",
+  "homepage": "https://www.gitify.io/",
   "url": "https://github.com/manosim/gitify/releases/download/v3.1.0/Gitify-Setup-3.1.0.exe#/dl.7z",
   "hash": "md5:E63C047428BE4E2F02FC72D95CEBA29F",
   "extract_dir": "$PLUGINSDIR",
@@ -9,6 +8,9 @@
   "bin": "Gitify.exe",
   "shortcuts": [["Gitify.exe", "Gitify"]],
   "license": "MIT",
+  "checkver": {
+    "github": "https://github.com/manosim/gitify"
+  },
   "autoupdate": {
     "url": "https://github.com/manosim/gitify/releases/download/v$version/Gitify-Setup-$version.exe#/dl.7z"
   }
