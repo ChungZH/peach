@@ -1,0 +1,13 @@
+{
+  "version": "3.1.0",
+  "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
+  "homepage": "https://github.com/manosim/gitify",
+  "extract_dir": "$PLUGINSDIR",
+  "pre_install": ["Expand-7zipArchive -Path \"$dir\\app-64.7z\" -Removal"],
+  "bin": "Gitify.exe",
+  "shortcuts": ["Gitify.exe", "Gitify"],
+  "license": "MIT",
+  "autoupdate": {
+    "url": "https://github.com/manosim/gitify/releases/download/v$version/Gitify-Setup-$version.exe#/dl.7z"
+  }
+}
