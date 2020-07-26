@@ -1,0 +1,21 @@
+{
+  "version": "3.4.6",
+  "description": "Caret is a concise and efficient Markdown editor.",
+  "homepage": "http://caret.io/",
+  "url": "https://github.com/careteditor/issues/releases/download/3.4.6/CaretSetup.exe#/dl.7z",
+  "hash": "md5:DD00DAEACC752682605C0AE752B5F09F",
+  "installer": {
+    "script": [
+      "Expand-7zipArchive -Path \"$dir\\Caret-$version-full.nupkg\" -Removal",
+      "Get-ChildItem -Path \"$dir\\lib\\net45\\*\" -Recurse | Move-Item -Destination \"$dir\""
+    ]
+  },
+  "bin": "Caret.exe",
+  "shortcuts": [["Caret.exe", "Caret"]],
+  "checkver": {
+    "github": "https://github.com/careteditor/issues/"
+  },
+  "autoupdate": {
+    "url": "https://github.com/careteditor/issues/releases/download/$version/CaretSetup.exe"
+  }
+}

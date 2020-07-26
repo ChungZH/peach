@@ -1,6 +1,7 @@
 {
   "version": "1.2.2",
   "homepage": "https://parsify.app/",
+  "license": "Freeware",
   "description": "Extendable calculator for the 21st Century.",
   "url": "https://github.com/parsify-dev/desktop/releases/download/v1.2.2/Parsify-Desktop-Setup-1.2.2.exe#/dl.7z",
   "hash": "md5:037938C975B8EF91FB95D9D4247D6E06",
