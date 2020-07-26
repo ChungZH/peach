@@ -1,8 +1,9 @@
 {
   "version": "1.0.0",
-  "hash": "md5:2CA41EFF44CF0B4CBEBDC45914A7107B",
-  "url": "https://github.com/brrd/abricotine/releases/download/1.0.0/abricotine-setup-win32-x64.exe#/dl.7z",
+  "hash": "b393bcccd29ce7a2b97dfc54c7168ceb5b8d76689b85c316363f140907f30ff2",
+  "url": "https://github.com/brrd/abricotine/releases/download/1.0.0/abricotine-setup-win32-x64.exe",
   "description": "Markdown editor with inline preview.",
+  "license": "GPL-3.0",
   "homepage": "https://abricotine.brrd.fr/",
   "installer": {
     "script": [
