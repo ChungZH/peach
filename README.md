@@ -20,6 +20,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**lemon**](https://github.com/iotang/Project_LemonLime)
 - [**vivetool**](https://github.com/thebookisclosed/ViVe)
 - [**fluent-reader**](https://github.com/yang991178/fluent-reader)
+- [**parsify**](https://parsify.app/)
 
 ---
 
