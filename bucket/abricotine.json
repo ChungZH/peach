@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "hash": "md5:2CA41EFF44CF0B4CBEBDC45914A7107B",
+  "url": "https://github.com/brrd/abricotine/releases/download/1.0.0/abricotine-setup-win32-x64.exe#/dl.7z",
+  "description": "Markdown editor with inline preview.",
+  "homepage": "https://abricotine.brrd.fr/",
+  "installer": {
+    "script": [
+      "Expand-7zipArchive -Path \"$dir\\abricotine-$version-full.nupkg\" -Removal",
+      "Get-ChildItem -Path \"$dir\\lib\\net45\\*\" -Recurse | Move-Item -Destination \"$dir\""
+    ]
+  },
+  "bin": "abricotine.exe",
+  "shortcuts": [["abricotine.exe", "Abricotine"]],
+  "checkver": {
+    "github": "https://github.com/brrd/abricotine"
+  },
+  "autoupdate": {
+    "url": "https://github.com/brrd/abricotine/releases/download/$version/abricotine-setup-win32-x64.exe"
+  }
+}
