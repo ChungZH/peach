@@ -1,8 +1,9 @@
 <p align="center">
 <img width="210" height="210" alt="Peach" src="./assets/peach.png" align="right" style="float: right; margin: 0 10px 0 0;"/>
 </br>
-<h1>🍑 Peach</h1> 
-<bold>A sweet Scoop bucket.</bold>
+<h1>🍑 Peach</h1>
+<strong>A sweet Scoop bucket.</strong>
+</br>
 </br>
 <blockquote>你在想屁吃？</blockquote>
 </p>
