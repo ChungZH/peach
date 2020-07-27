@@ -20,6 +20,7 @@ scoop install peach/<app>
 
 If you favorite applications aren't included, you can [submit an issue](https://github.com/ChungZH/peach/issues/new) or make a pull request!
 
+- [**notepanda**](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
 - [**tencent-edu**](https://ke.qq.com/) - 腾讯课堂 PC 客户端
 - [**lemon**](https://github.com/iotang/Project_LemonLime) - 为了 OI 比赛而生的轻量评测系统
 - [**vivetool**](https://github.com/thebookisclosed/ViVe) - C# library and console app for new feature control APIs coming in Windows 10 version 20H1
