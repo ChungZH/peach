@@ -1,26 +1,26 @@
 {
-  "version": "0.2.2",
-  "description": "A tiny judging environment for OI contest based on Lemon + LemonPlus.",
-  "homepage": "https://github.com/iotang/Project_LemonLime/",
-  "license": "GPL-3.0",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/iotang/Project_LemonLime/releases/download/v0.2.2/lemon-win-x64.zip",
-      "hash": "6e30c003098e81b06fa5a0c1b7b3a6e4d274a68a4ca74b81fcd271a25bda4b5d",
-      "extract_dir": "5.15.0-desktop-win64_msvc2019_64",
-      "##": "lemon.v$version.Windows-x64"
-    }
-  },
-  "shortcuts": [["lemon.exe", "Lemon"]],
-  "bin": "lemon.exe",
-  "checkver": {
-    "github": "https://github.com/iotang/Project_LemonLime/"
-  },
-  "autoupdate": {
+    "version": "0.2.2",
+    "description": "A tiny judging environment for OI contest based on Lemon + LemonPlus.",
+    "homepage": "https://github.com/iotang/Project_LemonLime/",
+    "license": "GPL-3.0",
     "architecture": {
-      "64bit": {
-        "url": "https://github.com/iotang/Project_LemonLime/releases/download/v$version/lemon-win-x64.zip"
-      }
+        "64bit": {
+            "url": "https://github.com/iotang/Project_LemonLime/releases/download/v0.2.2/lemon-win-x64.zip",
+            "hash": "6e30c003098e81b06fa5a0c1b7b3a6e4d274a68a4ca74b81fcd271a25bda4b5d",
+            "extract_dir": "5.15.0-desktop-win64_msvc2019_64",
+            "##": "lemon.v$version.Windows-x64"
+        }
+    },
+    "shortcuts": [["lemon.exe", "Lemon"]],
+    "bin": "lemon.exe",
+    "checkver": {
+        "github": "https://github.com/iotang/Project_LemonLime/"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/iotang/Project_LemonLime/releases/download/v$version/lemon-win-x64.zip"
+            }
+        }
     }
-  }
 }
