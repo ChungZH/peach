@@ -1,5 +1,4 @@
 {
-    "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
     "version": "1.3.2",
     "license": "GPL-3.0-only",
     "homepage": "https://qtpass.org/",
