@@ -3,13 +3,18 @@
     "homepage": "https://parsify.app/",
     "license": "Freeware",
     "description": "Extendable calculator for the 21st Century.",
-    "url": "https://github.com/parsify-dev/desktop/releases/download/v1.2.2/Parsify-Desktop-Setup-1.2.2.exe#/dl.7z",
-    "hash": "md5:037938C975B8EF91FB95D9D4247D6E06",
+    "url": "https://github.com/parsify-dev/desktop/releases/download/v1.2.2/Parsify-Desktop-Setup-1.2.2.exe",
+    "hash": "7384e27c6bb55dadf61866ccb60191cc009687d17750e4e1ef5ca45cc863408c",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
-        "script": ["Expand-7zipArchive -Path \"$dir\\app-64.7z\" -Removal"]
+        "script": "Expand-7zipArchive -Path \"$dir\\app-64.7z\" -Removal"
     },
-    "shortcuts": [["Parsify Desktop.exe", "Parsify Desktop"]],
+    "shortcuts": [
+        [
+            "Parsify Desktop.exe",
+            "Parsify Desktop"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/parsify-dev/desktop",
         "regex": "tag/v([\\w.-]+)"

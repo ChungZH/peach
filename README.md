@@ -24,6 +24,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**caret**](https://caret.io) - Markdown editor
 - [**abricotine**](https://abricotine.brrd.fr/) - Markdown editor ([`extras` pending](https://github.com/lukesampson/scoop-extras/pull/4453))
 - [**gitify**](https://www.gitify.io/) - GitHub notifications on your menu bar
+- [**qtpass**](https://qtpass.org/) - QtPass is a multi-platform GUI for [pass](https://www.passwordstore.org/).
 
 ---
 

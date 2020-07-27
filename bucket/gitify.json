@@ -6,7 +6,12 @@
     "extract_dir": "$PLUGINSDIR",
     "pre_install": "Expand-7zipArchive -Path \"$dir\\app-64.7z\" -Removal",
     "bin": "Gitify.exe",
-    "shortcuts": [["Gitify.exe", "Gitify"]],
+    "shortcuts": [
+        [
+            "Gitify.exe",
+            "Gitify"
+        ]
+    ],
     "license": "MIT",
     "checkver": {
         "github": "https://github.com/manosim/gitify"

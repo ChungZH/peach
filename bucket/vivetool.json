@@ -8,9 +8,6 @@
     "bin": "ViVeTool.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/thebookisclosed/ViVe/releases/download/v$version/ViveTool-v$version.zip",
-        "hash": {
-            "url": "$url.hash"
-        }
+        "url": "https://github.com/thebookisclosed/ViVe/releases/download/v$version/ViveTool-v$version.zip"
     }
 }

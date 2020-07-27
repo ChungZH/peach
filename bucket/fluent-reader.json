@@ -13,7 +13,12 @@
             "hash": "a9d13565efd38cb75ce24c5897c7a22e98d74c43759ed5ea9e659f72edcd115e"
         }
     },
-    "shortcuts": [["Fluent Reader.exe", "Fluent Reader"]],
+    "shortcuts": [
+        [
+            "Fluent Reader.exe",
+            "Fluent Reader"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/yang991178/fluent-reader",
         "regex": "tag/v([\\w.-]+)"

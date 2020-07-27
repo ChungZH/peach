@@ -11,7 +11,12 @@
             "##": "lemon.v$version.Windows-x64"
         }
     },
-    "shortcuts": [["lemon.exe", "Lemon"]],
+    "shortcuts": [
+        [
+            "lemon.exe",
+            "Lemon"
+        ]
+    ],
     "bin": "lemon.exe",
     "checkver": {
         "github": "https://github.com/iotang/Project_LemonLime/"

@@ -14,7 +14,12 @@
         }
     },
     "bin": "abricotine.exe",
-    "shortcuts": [["abricotine.exe", "Abricotine"]],
+    "shortcuts": [
+        [
+            "abricotine.exe",
+            "Abricotine"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/brrd/abricotine"
     },
