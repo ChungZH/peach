@@ -32,6 +32,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**qtpass**](https://qtpass.org/) - QtPass is a multi-platform GUI for [pass](https://www.passwordstore.org/). ([`extras` pending](https://github.com/lukesampson/scoop-extras/pull/4465))
 - [**translatium**](https://translatiumapp.com/) - Translate Any Languages like a Pro
 - [**kanmail**](https://kanmail.io/) - Kanmail is an email client that works like a kanban board
+- [**drawio**](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 
 ---
 
