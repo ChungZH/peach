@@ -1,0 +1,33 @@
+{
+    "version": "1.2006081025",
+    "homepage": "https://kanmail.io/",
+    "description": "Kanmail is an email client that works like a kanban board.",
+    "architecture": {
+        "64bit": {
+            "url": "https://updates.kanmail.io/Kanmail-win-1.2007081733.zip",
+            "hash": "MD5:7F2430A4ADD98421EBDF72CAE63F5EC5"
+        }
+    },
+    "bin": "Kanmail.exe",
+    "shortcuts": [
+        [
+            "Kanmail.exe",
+            "Kanmail"
+        ]
+    ],
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://github.com/Oxygem/Kanmail/blob/master/LICENSE.md"
+    },
+    "checkver": {
+        "github": "https://github.com/Oxygem/Kanmail",
+        "regex": "tag/v([\\w.-]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://updates.kanmail.io/Kanmail-win-$version.zip"
+            }
+        }
+    }
+}
