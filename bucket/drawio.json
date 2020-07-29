@@ -7,7 +7,7 @@
     "pre_install": [
         "Rename-Item -Path \"$dir\\draw.io-*.exe\" -NewName \"draw.io.exe\""
     ],
-    "bin": "drawio.exe",
+    "bin": "draw.io.exe",
     "shortcuts": [
         [
             "draw.io.exe",
