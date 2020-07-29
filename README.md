@@ -34,6 +34,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**kanmail**](https://kanmail.io/) - Kanmail is an email client that works like a kanban board
 - [**drawio**](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [**runjs**](https://runjs.dev/) - A JavaScript playground that auto-evaluates as you type
+- [**swifty**](https://getswifty.pro/) -  A free & offline Password Manager
 
 ---
 
