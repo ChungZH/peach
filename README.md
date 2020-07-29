@@ -33,6 +33,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**translatium**](https://translatiumapp.com/) - Translate Any Languages like a Pro
 - [**kanmail**](https://kanmail.io/) - Kanmail is an email client that works like a kanban board
 - [**drawio**](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [**runjs**](https://runjs.dev/) - A JavaScript playground that auto-evaluates as you type
 
 ---
 
