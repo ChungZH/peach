@@ -24,6 +24,6 @@
         "regex": "tag/v([\\w.-]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/atomery/translatium/releases/download/v$version/Translatium-Setup-$version.exe"
+        "url": "https://github.com/atomery/translatium/releases/download/v$version/Translatium-Setup-$version.exe#/dl.7z"
     }
 }
