@@ -5,16 +5,17 @@
     "description": "Free Offline Password Manager",
     "url": "https://github.com/swiftyapp/swifty/releases/download/v0.5.2/Swifty-Setup-0.5.2.exe#/dl.7z",
     "hash": "md5:1AB19A0E495A980259B59798D6D4F180",
-    "extract_dir": "$PLUGINSDIR",
-    "installer": {
-        "script": "Expand-7zipArchive -Path \"$dir\\app-64.7z\" -Removal"
-    },
+    "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
+        "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"
+    ],
     "shortcuts": [
         [
             "Swifty.exe",
             "Swifty"
         ]
     ],
+    "bin": "Swifty.exe",
     "checkver": {
         "github": "https://github.com/swiftyapp/swifty",
         "regex": "tag/v([\\w.-]+)"
