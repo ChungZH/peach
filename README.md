@@ -28,7 +28,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**parsify**](https://parsify.app/) - Extendable calculator ⚡
 - [**caret**](https://caret.io) - Markdown editor
 - ~~abricotine~~ (Moved to [`extras`](https://github.com/lukesampson/scoop-extras/pull/4453))
-- [**gitify**](https://www.gitify.io/) - GitHub notifications on your menu bar ([`extras` pending](https://github.com/lukesampson/scoop-extras/pull/4455))
+- ~~gitify~~ (Moved to [`extras`](https://github.com/lukesampson/scoop-extras/pull/4455))
 - [**qtpass**](https://qtpass.org/) - QtPass is a multi-platform GUI for [pass](https://www.passwordstore.org/). ([`extras` pending](https://github.com/lukesampson/scoop-extras/pull/4465))
 - [**translatium**](https://translatiumapp.com/) - Translate Any Languages like a Pro
 - [**kanmail**](https://kanmail.io/) - Kanmail is an email client that works like a kanban board
