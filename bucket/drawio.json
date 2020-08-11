@@ -1,9 +1,9 @@
 {
-    "version": "13.5.7",
+    "version": "13.6.2",
     "homepage": "https://github.com/jgraph/drawio-desktop",
     "license": "Apache-2.0",
-    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v13.5.7/draw.io-13.5.7-windows-no-installer.exe",
-    "hash": "5be9a4d8ebca67d275cb26e45d895f6dfaea3603262cc9ecc72b1688071b5141",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v13.6.2/draw.io-13.6.2-windows-no-installer.exe",
+    "hash": "c5c388ac9ae5c9759c10f6d7726e05d66ec9876a125de98914c6918a5a5ca067",
     "pre_install": "Rename-Item -Path \"$dir\\draw.io-*.exe\" -NewName \"draw.io.exe\"",
     "bin": "draw.io.exe",
     "shortcuts": [

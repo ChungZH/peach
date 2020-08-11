@@ -1,11 +1,11 @@
 {
-    "version": "1.2006081025",
+    "version": "1.2008071409",
     "homepage": "https://kanmail.io/",
     "description": "Kanmail is an email client that works like a kanban board.",
     "architecture": {
         "64bit": {
-            "url": "https://updates.kanmail.io/Kanmail-win-1.2006081025.zip",
-            "hash": "47d35b8225d5a23255e69489d8b9c85a39f579c7cdb15bb47ccd240f92af53c7"
+            "url": "https://updates.kanmail.io/Kanmail-win-1.2008071409.zip",
+            "hash": "588542609a70a1a1e7f801552a0c57f2d7047ba5db61936a43d53c4dea318a57"
         }
     },
     "bin": "Kanmail.exe",
