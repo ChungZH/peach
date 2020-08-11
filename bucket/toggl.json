@@ -1,5 +1,5 @@
 {
-    "version": "v7.5.244",
+    "version": "7.5.244",
     "homepage": "https://toggl.com/",
     "description": "Toggl Desktop app for Windows, Mac and Linux.",
     "license": "BSD-3-Clause",
@@ -14,7 +14,7 @@
         }
     },
     "pre_install":[
-        "Remove-Item \"$dir\\Uninstall.exe\" \"$dir\\$PLUGINSDIR\" -Recurse"
+        "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall.exe\" -Recurse"
     ],
     "bin": "TogglDesktop.exe",
     "shortcuts": [
