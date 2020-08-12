@@ -32,8 +32,9 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**drawio**](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [**runjs**](https://runjs.dev/) - A JavaScript playground that auto-evaluates as you type
 - [**swifty**](https://getswifty.pro/) -  A free & offline Password Manager
-- [**apkstudio**](https://vaibhavpandey.com/apkstudio/) - Cross platform IDE for reverse-engineering Android application packages.
-- [**toggl**](https://toggl.com/) - Simple time tracking. Powerful reporting.
+- [**apkstudio**](https://vaibhavpandey.com/apkstudio/) - Cross platform IDE for reverse-engineering Android application packages
+- [**toggl**](https://toggl.com/) - Simple time tracking. Powerful reporting
+- [**mongood**](https://github.com/RenzHoly/Mongood) - A MongoDB GUI with Fluent Design
 
 **Deprecated:**
 
