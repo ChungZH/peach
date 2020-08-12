@@ -20,21 +20,26 @@ scoop install peach/<app>
 
 If you favorite applications aren't included, you can [submit an issue](https://github.com/ChungZH/peach/issues/new) or make a pull request!
 
+### Featured
+
 - [**notepanda**](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+- [**lemon**](https://github.com/iotang/Project_LemonLime) - 🍋 为了 OI 比赛而生的轻量评测系统
+- [**parsify**](https://parsify.app/) - ⚡ Extendable calculator
+- [**mongood**](https://github.com/RenzHoly/Mongood) - 🥭 A MongoDB GUI with Fluent Design
+- [**drawio**](https://github.com/jgraph/drawio-desktop) - 📐 Official electron build of diagrams.net
+- [**toggl**](https://toggl.com/) - ⏱️ A leading time tracking tool
+
+------
+
 - [**tencent-edu**](https://ke.qq.com/) - 腾讯课堂 PC 客户端
-- [**lemon**](https://github.com/iotang/Project_LemonLime) - 为了 OI 比赛而生的轻量评测系统
 - [**vivetool**](https://github.com/thebookisclosed/ViVe) - C# library and console app for new feature control APIs coming in Windows 10 version 20H1
-- [**parsify**](https://parsify.app/) - Extendable calculator ⚡
 - [**caret**](https://caret.io) - Markdown editor
 - [**qtpass**](https://qtpass.org/) - QtPass is a multi-platform GUI for [pass](https://www.passwordstore.org/). ([`extras` pending](https://github.com/lukesampson/scoop-extras/pull/4465))
 - [**translatium**](https://translatiumapp.com/) - Translate Any Languages like a Pro
 - [**kanmail**](https://kanmail.io/) - Kanmail is an email client that works like a kanban board
-- [**drawio**](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [**runjs**](https://runjs.dev/) - A JavaScript playground that auto-evaluates as you type
 - [**swifty**](https://getswifty.pro/) -  A free & offline Password Manager
 - [**apkstudio**](https://vaibhavpandey.com/apkstudio/) - Cross platform IDE for reverse-engineering Android application packages
-- [**toggl**](https://toggl.com/) - Simple time tracking. Powerful reporting
-- [**mongood**](https://github.com/RenzHoly/Mongood) - A MongoDB GUI with Fluent Design
 
 **Deprecated:**
 

@@ -1,7 +1,7 @@
 {
     "version": "7.5.245",
     "homepage": "https://toggl.com/",
-    "description": "Toggl Desktop app for Windows, Mac and Linux.",
+    "description": "A leading time tracking tool",
     "license": "BSD-3-Clause",
     "architecture": {
         "32bit": {
