@@ -1,10 +1,10 @@
 {
-    "version": "0.3.4",
+    "version": "0.3.5",
     "license": "MPL-2.0",
     "description": "A MongoDB GUI with Fluent Design",
     "homepage": "https://github.com/RenzHoly/Mongood/",
-    "url": "https://github.com/RenzHoly/Mongood/releases/download/v0.3.4/Mongood-win64.exe",
-    "hash": "01a39e85d2ed5bfe143e588f9e1b0e254cda704fb5d0ac542658a16498263fce",
+    "url": "https://github.com/RenzHoly/Mongood/releases/download/v0.3.5/Mongood-win64.exe",
+    "hash": "e4fe9eefd33be1b98ef96bc5cfbe0d39ca8e284da448c27003113fc8a0ea17b9",
     "bin": "Mongood-win64.exe",
     "shortcuts": [
         [
