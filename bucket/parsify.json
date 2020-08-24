@@ -15,6 +15,7 @@
             "Parsify Desktop"
         ]
     ],
+    "bin": "Parsify Desktop.exe",
     "checkver": {
         "github": "https://github.com/parsify-dev/desktop",
         "regex": "tag/v([\\w.-]+)"
