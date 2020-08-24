@@ -4,7 +4,7 @@
     "description": "A MongoDB GUI with Fluent Design",
     "homepage": "https://github.com/RenzHoly/Mongood/",
     "url": "https://github.com/RenzHoly/Mongood/releases/download/v0.4.0/Mongood-win64.exe",
-    "hash": "4d01909f510e51c73e36f11211efe9ab03b21cf3cdddb4d29f6a69db19e4a60e",
+    "hash": "d46a07c4b01f350637d0d59e76ac6666290dc674461b71c6fc59fdddc2f4a492",
     "bin": "Mongood-win64.exe",
     "shortcuts": [
         [
