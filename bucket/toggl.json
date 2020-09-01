@@ -1,16 +1,16 @@
 {
-    "version": "7.5.257",
+    "version": "7.5.258",
     "homepage": "https://toggl.com/",
     "description": "A leading time tracking tool",
     "license": "BSD-3-Clause",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.257/TogglDesktopInstaller-7.5.257.exe#/dl.7z",
-            "hash": "4a7ba05635cf2b86de3f286ebf3b4dc55b0ef43453818750833575ca985bf3bb"
+            "url": "https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.258/TogglDesktopInstaller-7.5.258.exe#/dl.7z",
+            "hash": "8405e344b5aff5678e43c6234acde498d0e6e7521ce9a92a5b64867bb4ea2828"
         },
         "64bit": {
-            "url": "https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.257/TogglDesktopInstaller-x64-7.5.257.exe#/dl.7z",
-            "hash": "a46757b399f05103ff722e133287e760d80b4aa40403d88660dc611982190b76"
+            "url": "https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.258/TogglDesktopInstaller-x64-7.5.258.exe#/dl.7z",
+            "hash": "828338049b9a4db6a581f51f15e7a17085c4119ebbd822b9345110634854d399"
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall.exe\" -Recurse",
