@@ -21,6 +21,6 @@
         "regex": "tag/v([\\w.-]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/swiftyapp/swifty/releases/download/v$version/Swifty-Setup-0.5.2.exe#/dl.7z"
+        "url": "https://github.com/swiftyapp/swifty/releases/download/v$version/Swifty-Setup-$version.exe#/dl.7z"
     }
 }
