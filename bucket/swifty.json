@@ -1,10 +1,10 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "homepage": "https://getswifty.pro/",
     "license": "GPL-3.0",
     "description": "Free Offline Password Manager",
-    "url": "https://github.com/swiftyapp/swifty/releases/download/v0.5.2/Swifty-Setup-0.5.2.exe#/dl.7z",
-    "hash": "8d30d0b41151e86a3d1d230146dccc5ef271be73ad8332df708a67d152d8c3d3",
+    "url": "https://github.com/swiftyapp/swifty/releases/download/v0.5.3/Swifty-Setup-0.5.3.exe#/dl.7z",
+    "hash": "9ed6a061c417f1cc986a0c7c18382f7879e4f0da0862892641015504077f2bea",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
         "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"
