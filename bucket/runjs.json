@@ -1,10 +1,10 @@
 {
-    "version": "1.10.1",
+    "version": "1.11.0",
     "homepage": "https://runjs.dev/",
     "license": "Freeware",
     "description": "A JavaScript playground that auto-evaluates as you type.",
-    "url": "https://github.com/lukehaas/RunJS/releases/download/v1.10.1/RunJS-Setup-1.10.1.exe#/dl.7ze",
-    "hash": "f5c4e9d3adfc338fc8c3f7efce70c0d8b60b8e05b05c9947fb5c0b996a870370",
+    "url": "https://github.com/lukehaas/RunJS/releases/download/v1.11.0/RunJS-Setup-1.11.0.exe#/dl.7ze",
+    "hash": "4c6eeaebc090f605557dac692081311fe1d4c719dbccf6256357b56207cf1e82",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
         "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"
