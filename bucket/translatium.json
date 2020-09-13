@@ -1,13 +1,13 @@
 {
-    "version": "13.7.1",
+    "version": "13.8.2",
     "homepage": "https://translatiumapp.com/",
     "license": {
         "identifier": "Freeware",
         "url": "https://github.com/atomery/translatium/blob/master/LICENSE"
     },
     "description": "Translate Any Languages like a Pro.",
-    "url": "https://github.com/atomery/translatium/releases/download/v13.7.1/Translatium-Setup-13.7.1.exe#/dl.7z",
-    "hash": "0ac71601698658c3808becbca17481cd8411ed3ed5ac850d5c30a8815bebf0ae",
+    "url": "https://github.com/atomery/translatium/releases/download/v13.8.2/Translatium-Setup-13.8.2.exe#/dl.7z",
+    "hash": "4fdb6251c2de21dfb4a7296cea6549bfaf330374a0730f795607244086e04913",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
         "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"
