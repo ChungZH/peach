@@ -22,9 +22,6 @@
         ]
     ],
     "bin": "lemon.exe",
-    "checkver": {
-        "github": "https://github.com/Project-LemonLime/Project_LemonLime"
-    },
     "autoupdate": {
         "architecture": {
             "64bit": {
