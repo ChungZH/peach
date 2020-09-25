@@ -23,7 +23,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 ### Featured
 
 - [**notepanda**](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++
-- [**lemon**](https://github.com/iotang/Project_LemonLime) - 🍋 为了 OI 比赛而生的轻量评测系统
+- [**lemon**](https://github.com/Project-LemonLime/Project_LemonLime) - 🍋 为了 OI 比赛而生的轻量评测系统
 - [**parsify**](https://parsify.app/) - ⚡ Extendable calculator
 - [**mongood**](https://github.com/RenzHoly/Mongood) - 🥭 A MongoDB GUI with Fluent Design
 - [**drawio**](https://github.com/jgraph/drawio-desktop) - 📐 Official electron build of diagrams.net
