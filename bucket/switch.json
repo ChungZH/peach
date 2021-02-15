@@ -1,10 +1,10 @@
 {
-    "version": "1.0.21",
+    "version": "1.0.23",
     "homepage": "https://get-switch.app/",
     "license": "GPL-3.0",
     "description": "Keyboard-driven commands to navigate your apps faster.",
-    "url": "https://github.com/ahkohd/switch-desktop/releases/download/v1.0.21/Switch-1.0.21-win.zip",
-    "hash": "B1ADD4DFFF3C26D7BE0406724052B2DC792175F3FBF29250BAE36472976FF3BE",
+    "url": "https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-1.0.23-win.zip",
+    "hash": "2370e4acf8f5574b9f326a1ea81a7093d4731ce758a1bbb027fb8bc0b32fa141",
     "shortcuts": [
         [
             "Switch.exe",
