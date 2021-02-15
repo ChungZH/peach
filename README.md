@@ -30,6 +30,7 @@ If you favorite applications aren't included, you can [submit an issue](https:/
 - [**toggl**](https://toggl.com/) - ⏱️ A leading time tracking tool
 - [**qownnotes**](https://www.qownnotes.org/) - 📓 A plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration
 - [**lite**](https://github.com/rxi/lite) - 💻 A lightweight text editor written in Lua
+- [**switch**](https://get-switch.app/) - ⌨ Keyboard-driven commands to navigate your apps faster.
 
 ------
 
