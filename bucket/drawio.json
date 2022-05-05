@@ -1,9 +1,9 @@
 {
-    "version": "17.4.2",
+    "version": "18.0.0",
     "homepage": "https://github.com/jgraph/drawio-desktop",
     "license": "Apache-2.0",
-    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v17.4.2/draw.io-17.4.2-windows-no-installer.exe",
-    "hash": "bd9c7bde11488363e0968276c4705fef3bb35c92d0bcc8955cbb1d7c5c7ddadd",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v18.0.0/draw.io-18.0.0-windows-no-installer.exe",
+    "hash": "e7fb0ef4c686188e4eacd4ab1407d5f072191bfcc369f5ca1a0bedc62807f5f4",
     "pre_install": "Rename-Item -Path \"$dir\\draw.io-*.exe\" -NewName \"draw.io.exe\"",
     "bin": "draw.io.exe",
     "shortcuts": [
