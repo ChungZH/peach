@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@master
       - name: Excavate
 #       uses: Ash258/Scoop-GithubActions@stable
-        uses: kidonng/Scoop-GithubActions@stable
+        uses:ScoopInstaller/GithubActions@main
         env:
 #         GITH_EMAIL: chungzh07@gmail.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
